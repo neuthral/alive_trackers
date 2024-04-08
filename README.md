@@ -7,7 +7,8 @@ this tool could be used to test for
 any services in the input list file
 
 usage:
-`sh
+`bash
+
 	./check_trackers.sh tracker_list.txt
 `
 
